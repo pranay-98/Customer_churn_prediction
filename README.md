@@ -58,5 +58,7 @@ The logistic regression model achieved an AUC of 0.75, and the decision tree mod
 
 ## Decision Tree structure
 
-![Tree](./Unknown-1.png)
+![Tree](./Unknown.png)
+
+![Tree](./Unknown-1.png "max depth=2")
 
